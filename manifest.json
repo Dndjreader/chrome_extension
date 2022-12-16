@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "ReaderLinks",
+    "description":"A browser extension that saves any bookmarked links, includes an add, remove and remove all function.",
+    "action": {
+        "default_title": "ReaderLinks",
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]    
+}
